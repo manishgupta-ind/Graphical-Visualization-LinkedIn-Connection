@@ -5,4 +5,12 @@ We all use LinkedIn to make connections with professionals in our industry or ev
 
 Graphs are one of the most important data structures that is applied in many real-world solutions. One of them is social networks. This really looks exciting. We will be creating a network that connects you to all the companies from your connections.
 
+Click below links to see visualization created by this code:
+
+**Companies of my LnikedIn connections:**
+https://datapane.com/u/mgupta/reports/J35lWVA/linkedin-connection-company/
+
+**Positions of my LinkedIn connections:**
+https://datapane.com/u/mgupta/reports/j3LQnv7/linkedin-connection-positions/
+
 
